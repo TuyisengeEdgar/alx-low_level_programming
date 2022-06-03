@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point you are allowed to put your code 
+ * main-Entry point you are allowed to put your code like functions and other wise 
  * Return: Always 0 (Success)
  */
 int main(void)
