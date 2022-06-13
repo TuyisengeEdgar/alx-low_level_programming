@@ -1,5 +1,5 @@
-#ifdef main.h
-#define main.h
+#ifdef MAIN_H
+#define MAIN_H
 /**
  * File: main.h
  * Auth: Edgar Tuyisenge
@@ -21,4 +21,4 @@ void print_array(int *a, int n);
 char *_strcpy(char *dest, char *src);
 int _atoi(char *s);
 
-#endif:
+#endif
