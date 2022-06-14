@@ -1,14 +1,6 @@
 #include "main.h"
 #include <unistd.h>
-/**
- * _putchar - writes the character c to stdout
- * @c: The character to print
- * Return: On success 1.
- */
-int _putchar(char c)
-{
-	return (write(1, &c, 1));
-}
+#include <string.h>
 /**
  * print_rev - Prints a string in reverse.
  * @s: The string to be printed.
