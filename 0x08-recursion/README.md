@@ -1,9 +1,9 @@
 Tests ✔️
-tests: Folder of test files. Provided by Holberton School.
+tests: Folder of test files. Provided by ALX School.
 Helper File 🙌
 _putchar.c: C function that writes a character to stdout.
 Header File 📁
-holberton.h: Header file containing prototypes for all functions written in the project.
+main.h: Header file containing prototypes for all functions written in the project.
 File	Prototype
 0-puts_recursion.c	void _puts_recursion(char *s);
 1-print_rev_recursion.c	void _print_rev_recursion(char *s);
@@ -12,8 +12,8 @@ File	Prototype
 4-pow_recursion.c	int _pow_recursion(int x, int y);
 5-sqrt_recursion.c	int _sqrt_recursion(int n);
 6-is_prime_number.c	int is_prime_number(int n);
-7-is_palindrome.c	int is_palindrome(char *s);
-100-wildcmp.c	int wildcmp(char *s1, char *s2);
+100-is_palindrome.c	int is_palindrome(char *s);
+101-wildcmp.c	int wildcmp(char *s1, char *s2);
 Tasks 📃
 0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget
 
